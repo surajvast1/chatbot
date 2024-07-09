@@ -1,0 +1,170 @@
+{
+    "cities": [
+      {
+        "name": "Bangalore",
+        "restaurants": [
+          {
+            "name": "Restaurant A",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant B",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant C",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant D",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant E",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mumbai",
+        "restaurants": [
+          {
+            "name": "Restaurant F",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant G",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant H",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant I",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant J",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hyderabad",
+        "restaurants": [
+          {
+            "name": "Restaurant K",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant L",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant M",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant N",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          },
+          {
+            "name": "Restaurant O",
+            "food_items": [
+              { "name": "Food Item 1", "quantity": 10, "price": 100 },
+              { "name": "Food Item 2", "quantity": 20, "price": 150 },
+              { "name": "Food Item 3", "quantity": 15, "price": 120 },
+              { "name": "Food Item 4", "quantity": 25, "price": 200 },
+              { "name": "Food Item 5", "quantity": 30, "price": 250 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
